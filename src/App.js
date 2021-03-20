@@ -74,16 +74,5 @@ useEffect(() => {
 }
 
 export default App;
-//<!-- The core Firebase JS SDK is always required and must be listed first -->
-//<script src="/__/firebase/7.17.1/firebase-app.js"></script>
-//<!-- TODO: Add SDKs for Firebase products that you want to use
-    // https://firebase.google.com/docs/web/setup#available-libraries -->
-//<script src="/__/firebase/7.17.1/firebase-analytics.js"></script>
-//<!-- Initialize Firebase -->
-//<script src="/__/firebase/init.js"></script>
-// 21967e99f7d64339b17f1919e23df841
-//react api context 
-//
-//"BQCq14axfMYx_zVFNtJ-sPJ250cc4w5rA3iacmRkpGof__Wy_uRaUQiV0DwzuayNYxjyi2bgqvku-6wkI7hVeHzXGzkFEvk5JHBpB9RkNfhn56kjr--GUvFdcY33rxT_Ma-13yBxjUz3lJ10fQUF-5fQYxP912Un5mVtRH3lhmU_6O1P236y"
 
 
